@@ -49,6 +49,7 @@ int main() {
     myCat->move();       // Outputs: The cat jumps.
 
     delete myDog;
+    
     delete myCat;
 
     return 0;
