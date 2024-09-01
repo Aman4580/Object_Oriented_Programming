@@ -12,7 +12,7 @@ class  Customer{
         roi = new int;
         *roi = 10;
     }
-    ~Customer(){
+    ~Customer(){ // destructor
         delete roi;
         cout<<"destructure is called";
     }
