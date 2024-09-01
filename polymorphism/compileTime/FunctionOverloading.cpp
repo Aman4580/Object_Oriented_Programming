@@ -7,7 +7,7 @@ public:
         return a + b;
     }
 
-    double add(double a, double b) {
+    double add(double a, double b) {// function overloading
         return a + b;
     }
 };
