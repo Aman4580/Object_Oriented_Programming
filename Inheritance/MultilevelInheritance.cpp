@@ -17,6 +17,7 @@ public:
     }
 };
 
+
 // Derived class from Dog
 class Puppy : public Dog {
 public:
